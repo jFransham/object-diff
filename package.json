@@ -1,0 +1,19 @@
+{
+  "name": "object-diff",
+  "version": "0.1.0",
+  "description": "Gets a simple diff between objects.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jFransham/object-diff.git"
+  },
+  "dependencies": {
+    "deep-equal": "^1.0.1"
+  },
+  "author": "Jack Fransham (jack.fransham@cuvva.co)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/jFransham/object-diff/issues"
+  },
+  "homepage": "https://github.com/jFransham/object-diff#readme"
+}

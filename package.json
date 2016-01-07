@@ -1,7 +1,7 @@
 {
-  "name": "object-diff",
+  "name": "one-level-object-diff",
   "version": "0.1.0",
-  "description": "Gets a simple diff between objects.",
+  "description": "Gets a simple top-level diff between objects.",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
